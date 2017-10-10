@@ -1,7 +1,8 @@
 # "Simdrone" - Group Final Project (Lighthouse Labs)
 
 Group Members: Esha, Shahab, Hannah
-http://ec2-18-221-12-59.us-east-2.compute.amazonaws.com:3000/
+
+[http://ec2-18-221-12-59.us-east-2.compute.amazonaws.com:3000/]
 
 ### Usage
 
